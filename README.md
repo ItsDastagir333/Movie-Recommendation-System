@@ -18,18 +18,12 @@ The dataset used for this project is the TMDB-5000 Movies and Credits database, 
    cd Movie-Recommendation-System
    ```
 
-3. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. [Most Imp] Download the dataset from the following link and place it in the project directory
+3. [Most Imp] Download the dataset from the following link and place it in the project directory
   (Download Both TMDB 5000 Movie and Credit Dataset):
 
    [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
-5. Extract the dataset file (csv format) in the project directory.
+4. Extract the dataset file (csv format) in the project directory.
 
 ## Usage
 
